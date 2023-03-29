@@ -39,7 +39,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
   
 ## Watch my contribution graph eaten by the snake🐍
  
-![snake gif](https://github.com/reynanwq/reynanwq/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Reynanwq/reynanwq/blob/output/github-contribution-grid-snake.gif)
 
   
 </div>
