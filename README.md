@@ -37,5 +37,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
   
 <img src="./Bleach Urahara Kisuke GIF - Find & Share on GIPHY.gif">
   
-  <p>やればできる！。</p>
+  <p> <strong> やればできる！。</strong></p>
 </div>
