@@ -32,6 +32,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 
 <div align="center">
 
-  ![Snake animation](https://github.com/reynanwq/reynanwq/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Reynanwq/reynanwq/blob/output/github-contribution-grid-snake.svg)
   
 </div>
