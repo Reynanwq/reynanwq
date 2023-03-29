@@ -29,4 +29,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
   <a href="https://www.linkedin.com/in/reynan-da-silva-dias-paiva-982808219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a > 
 </div>
 
- ![Snake animation](https://github.com/reynanwq/reynanwq/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+
+  ![Snake animation](https://github.com/reynanwq/reynanwq/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
