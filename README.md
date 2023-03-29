@@ -33,13 +33,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
   <a href="https://www.linkedin.com/in/reynan-da-silva-dias-paiva-982808219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a > 
 </div>
 
-
 <div align="center">
-
   
-## Watch my contribution graph eaten by the snake🐍
- 
-![snake gif](https://github.com/Reynanwq/reynanwq/blob/output/github-contribution-grid-snake.gif)
-
+<img src="./Bleach Urahara Kisuke GIF - Find & Share on GIPHY.gif">
   
+  <p>やればできる！。</p>
 </div>
