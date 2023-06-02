@@ -36,7 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
   
 <div align="center">
   
-<img src="genshim.gif">
+
   
   <p> <strong> <br>  やればできる！。</strong></p>
 </div>
