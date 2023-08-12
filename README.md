@@ -35,6 +35,6 @@
   <br> 
   
 <div align="center">
-  
+  <img src="/programmer.gif">
   <p> <strong> <br>  やればできる！。</strong></p>
 </div>
