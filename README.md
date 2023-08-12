@@ -1,11 +1,4 @@
 <div align="center">
-  <a href="https://github.com/reynanwq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynanwq&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
- 
- <br> 
-
-<div align="center">
   <h3>Skills</h3> 
   <br>
    <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
