@@ -15,10 +15,7 @@
   <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a>
   <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
   <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
-  <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-  <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
-  <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-  <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+  <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
 </div>
   
  <br> 
@@ -32,6 +29,37 @@
   <a href="https://www.linkedin.com/in/reynan-da-silva-dias-paiva-982808219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a > 
 </div>
 
+ <br> 
+
+
+  <div align="center">
+  <h3>Database</h3> 
+  <br>
+   <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a>
+    <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
+    <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
+</div>
+
+ <br> 
+ 
+  <div align="center">
+  <h3>IDE</h3> 
+  <br>
+   <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+    <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Operational Systems</h3> 
+  <br>
+   <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
+  <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" target="_blank"></a>
+  <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" target="_blank"></a>
+</div>
+  <br>
+  
   <br> 
   
 <div align="center">
