@@ -26,7 +26,7 @@
 
 
   <div align="center">
-  <h3>Database</h3> 
+  <h3>IDE</h3> 
   <br>
    <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a>
     <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
@@ -36,7 +36,7 @@
  <br> 
  
   <div align="center">
-  <h3>IDE</h3> 
+  <h3>Database</h3> 
   <br>
    <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
     <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
