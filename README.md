@@ -50,6 +50,7 @@
    <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
   <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" target="_blank"></a>
   <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
 </div>
   <br>
   
