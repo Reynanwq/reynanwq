@@ -40,6 +40,7 @@
   <br>
    <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
     <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
+    <a href = "mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
