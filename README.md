@@ -2,7 +2,7 @@
 
 # Reynan Paiva
 
-**Desenvolvedor Full Stack · Java · Spring Boot · Kotlin · React · Flutter**
+**Full Stack Developer · Java · Spring Boot · Kotlin · React · Flutter**
 
 <a href="https://www.linkedin.com/in/reynan-paiva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -10,12 +10,12 @@
 
 </div>
 
-<img align="right" src="img/programming.gif" width="280" alt="Digitando no teclado" />
+<img align="right" src="img/programming.gif" width="280" alt="Typing on keyboard" />
 
-- 🚀 **Desenvolvedor de Software na Gubee**: integrações com 25+ marketplaces, ERPs e logística, e pagamentos com Stripe
-- 🧭 **Líder técnico do SIAL (UFBA)**: Spring Boot + Flutter, em produção com 340+ usuários
-- 🎓 Bacharel em Ciência da Computação pela **UFBA** · ex-pesquisador no **LaSiD** (Laboratório de Sistemas Distribuídos)
-- 🏗️ Arquitetura Hexagonal · Clean Architecture · SOLID · CQRS · Kafka
+- 🚀 **Software Developer at Gubee**: integrations with 25+ marketplaces, ERPs and logistics providers, plus Stripe payments
+- 🧭 **Tech Lead of SIAL (UFBA)**: Spring Boot + Flutter, in production with 340+ active users
+- 🎓 B.Sc. in Computer Science from **UFBA** · former researcher at **LaSiD** (Distributed Systems Laboratory)
+- 🏗️ Hexagonal Architecture · Clean Architecture · SOLID · CQRS · Kafka
 
 <br clear="right" />
 
