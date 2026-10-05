@@ -9,11 +9,14 @@
 
 </div>
 
-- 🚀 **Trainee na Gubee**: integrações com 25+ marketplaces, ERPs e logística, e pagamentos com Stripe
+- 🚀 **Desenvolvedor de Software na Gubee**: integrações com 25+ marketplaces, ERPs e logística, e pagamentos com Stripe
 - 🧭 **Líder técnico do SIAL (UFBA)**: Spring Boot + Flutter, em produção com 340+ usuários
 - 🎓 Ciência da Computação na **UFBA** · ex-pesquisador no **LaSiD** (Sistemas Distribuídos)
 - 🏗️ Arquitetura Hexagonal · Clean Architecture · SOLID · CQRS · Kafka
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring,ts,react,flutter,postgres,mysql,mongodb,kafka,docker,githubactions&perline=12" alt="Stack" />
 
-**Projetos:** [ZenoBank-Microservices](https://github.com/Reynanwq/ZenoBank-Microservices) · [soul-society-clean-architecture](https://github.com/Reynanwq/soul-society-clean-architecture) · [Gubee-training](https://github.com/Reynanwq/Gubee-training) · [CaronaApp](https://github.com/Reynanwq/CaronaApp)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reynanwq&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reynanwq&layout=compact&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+</div>
