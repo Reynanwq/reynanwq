@@ -6,6 +6,7 @@
 
 <a href="https://www.linkedin.com/in/reynan-paiva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:reynanwq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.instagram.com/reynanwq/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
 
@@ -19,7 +20,3 @@
 <br clear="right" />
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring,ts,react,flutter,postgres,mysql,mongodb,kafka,docker,githubactions&perline=12" alt="Stack" />
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reynanwq&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</div>
