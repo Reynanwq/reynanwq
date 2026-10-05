@@ -19,4 +19,4 @@
 
 <br clear="right" />
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,ts,react,flutter,postgres,mysql,mongodb,kafka,docker,githubactions&perline=12" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,ts,react,flutter,postgres,mysql,mongodb,kafka,docker,githubactions,linux,ubuntu,windows&perline=15" alt="Stack" />
