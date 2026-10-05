@@ -17,6 +17,6 @@
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring,ts,react,flutter,postgres,mysql,mongodb,kafka,docker,githubactions&perline=12" alt="Stack" />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reynanwq&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reynanwq&show_icons=true&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reynanwq&layout=compact&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
 </div>
