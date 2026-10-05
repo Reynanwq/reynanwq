@@ -14,7 +14,7 @@
 
 - 🚀 **Desenvolvedor de Software na Gubee**: integrações com 25+ marketplaces, ERPs e logística, e pagamentos com Stripe
 - 🧭 **Líder técnico do SIAL (UFBA)**: Spring Boot + Flutter, em produção com 340+ usuários
-- 🎓 Ciência da Computação na **UFBA** · ex-pesquisador no **LaSiD** (Sistemas Distribuídos)
+- 🎓 Bacharel em Ciência da Computação pela **UFBA** · ex-pesquisador no **LaSiD** (Sistemas Distribuídos)
 - 🏗️ Arquitetura Hexagonal · Clean Architecture · SOLID · CQRS · Kafka
 
 <br clear="right" />
